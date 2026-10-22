@@ -64,7 +64,7 @@
       padding-bottom: 5px;
     }
 
-    /* Hero */
+    /* Hero section layout*/
     .hero {
       position: relative;
       min-height: 100svh;
@@ -108,7 +108,7 @@
       animation: reveal 0.9s 0.1s ease forwards;
     }
 
-    /* Letter-spaced headline */
+    /* Initial Load Animation*/
     .headline {
       max-width: 900px;
       font-size: clamp(36px, 6.5vw, 88px);
